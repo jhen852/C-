@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\bin\Debug\Clase_1.exe.config
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\bin\Debug\Clase_1.exe
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\bin\Debug\Clase_1.pdb
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\obj\Debug\Clase_1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\obj\Debug\Clase_1.exe
+C:\Users\Usuario\Desktop\121 preparandome CODIGO FACILITO\C# Basico\Clase_1\Clase_1\obj\Debug\Clase_1.pdb
